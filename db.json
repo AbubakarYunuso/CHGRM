@@ -1,0 +1,136 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "СRM",
+      "headWorkerId": "1",
+      "workerIds": [
+        "2",
+        "3",
+        "1",
+        "4",
+        "5"
+      ],
+      "tasks": [
+        {
+          "id": "1",
+          "title": "task1",
+          "complete": false
+        },
+        {
+          "id": "3",
+          "title": "task3",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Project name",
+      "headWorkerId": "2",
+      "workerIds": [
+        "2",
+        "3",
+        "4"
+      ],
+      "tasks": [
+        {
+          "id": "1",
+          "title": "task1",
+          "complete": true
+        },
+        {
+          "id": "2",
+          "title": "task2",
+          "complete": true
+        },
+        {
+          "id": "3",
+          "title": "task3",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "id": "0.31374313480855476",
+      "headWorkerId": "1",
+      "name": "Project name 1",
+      "workerIds": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "tasks": [
+        {
+          "id": "0.8126611007729531",
+          "title": "task 1",
+          "complete": false
+        },
+        {
+          "id": "0.921871026962609",
+          "title": "task 3",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "id": "0.5285428835365572",
+      "headWorkerId": "1",
+      "name": "Test project name",
+      "workerIds": [
+        "2",
+        "1"
+      ],
+      "tasks": [
+        {
+          "id": "0.1320143431472134",
+          "title": "test 1",
+          "complete": false
+        },
+        {
+          "id": "0.6608311431514063",
+          "title": "test 2",
+          "complete": false
+        }
+      ]
+    }
+  ],
+  "workers": [
+    {
+      "id": "1",
+      "name": "Worker Name 1",
+      "isRukovod": true,
+      "login": "bbkr200330",
+      "password": "nsv200330"
+    },
+    {
+      "id": "2",
+      "name": "Worker Name 2",
+      "isRukovod": true,
+      "login": "dm200407",
+      "password": "srv200407"
+    },
+    {
+      "id": "3",
+      "name": "Worker Name 3",
+      "isRukovod": false,
+      "login": "ligin3",
+      "password": "password3"
+    },
+    {
+      "id": "4",
+      "name": "Worker Name 4",
+      "isRukovod": false,
+      "login": "ligin4",
+      "password": "password4"
+    },
+    {
+      "id": "5",
+      "name": "Worker Name 5",
+      "isRukovod": false,
+      "login": "ligin5",
+      "password": "password5"
+    }
+  ]
+}

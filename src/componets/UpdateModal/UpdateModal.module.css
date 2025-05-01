@@ -1,0 +1,13 @@
+.taskInput {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.buttonsContainer {
+  display: flex;
+  gap: 10px;
+}
+.taskList {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}

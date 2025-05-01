@@ -1,0 +1,9 @@
+.header {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  font-family: "Oswald", sans-serif;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,14 @@
+.menu {
+  width: 250px;
+  height: fit-content;
+  margin-bottom: 10px;
+}
+
+.createButton {
+  display: flex;
+  margin: auto;
+}
+.mainContant {
+  display: flex;
+  gap: 10px;
+}

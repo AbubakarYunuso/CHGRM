@@ -1,0 +1,16 @@
+.projectsContainer {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.cardContant {
+  display: flex;
+  flex-direction: column;
+}
+.list {
+  display: flex;
+  gap: 10px;
+}
+.listSecondItem {
+  padding-top: 3px;
+}
