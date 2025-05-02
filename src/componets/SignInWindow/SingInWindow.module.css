@@ -1,0 +1,22 @@
+.container {
+  width: 500px;
+  height: 300px;
+  display: flex;
+  border-radius: 10px;
+  background-color: white;
+  flex-direction: column;
+  margin: 200px auto;
+}
+.header {
+  margin: 10px auto 25px;
+}
+.form {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 90%;
+}
+.formItem {
+  margin: 0;
+}

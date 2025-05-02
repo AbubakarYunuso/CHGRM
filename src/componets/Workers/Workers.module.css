@@ -1,0 +1,13 @@
+.workersContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.searchWorker {
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+.search {
+  width: 400px;
+}

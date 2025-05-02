@@ -4,13 +4,7 @@
       "id": "1",
       "name": "СRM",
       "headWorkerId": "1",
-      "workerIds": [
-        "2",
-        "3",
-        "1",
-        "4",
-        "5"
-      ],
+      "workerIds": ["2", "3", "1", "4", "5"],
       "tasks": [
         {
           "id": "1",
@@ -28,11 +22,7 @@
       "id": "2",
       "name": "Project name",
       "headWorkerId": "2",
-      "workerIds": [
-        "2",
-        "3",
-        "4"
-      ],
+      "workerIds": ["2", "3", "4"],
       "tasks": [
         {
           "id": "1",
@@ -55,12 +45,7 @@
       "id": "0.31374313480855476",
       "headWorkerId": "1",
       "name": "Project name 1",
-      "workerIds": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
+      "workerIds": ["2", "3", "4", "5"],
       "tasks": [
         {
           "id": "0.8126611007729531",
@@ -78,10 +63,7 @@
       "id": "0.5285428835365572",
       "headWorkerId": "1",
       "name": "Test project name",
-      "workerIds": [
-        "2",
-        "1"
-      ],
+      "workerIds": ["2", "1"],
       "tasks": [
         {
           "id": "0.1320143431472134",
@@ -102,35 +84,48 @@
       "name": "Worker Name 1",
       "isRukovod": true,
       "login": "bbkr200330",
-      "password": "nsv200330"
+      "password": "nsv200330",
+      "specialization": "Backend-developer"
     },
     {
       "id": "2",
       "name": "Worker Name 2",
       "isRukovod": true,
       "login": "dm200407",
-      "password": "srv200407"
+      "password": "srv200407",
+      "specialization": "Frontend-developer"
     },
     {
       "id": "3",
       "name": "Worker Name 3",
       "isRukovod": false,
       "login": "ligin3",
-      "password": "password3"
+      "password": "password3",
+      "specialization": "Fullstack-developer"
     },
     {
       "id": "4",
       "name": "Worker Name 4",
       "isRukovod": false,
       "login": "ligin4",
-      "password": "password4"
+      "password": "password4",
+      "specialization": "UI-UX designer"
     },
     {
       "id": "5",
       "name": "Worker Name 5",
       "isRukovod": false,
       "login": "ligin5",
-      "password": "password5"
+      "password": "password5",
+      "specialization": "DevOps-developer"
+    },
+    {
+      "id": "8",
+      "name": "Worker Name 3",
+      "isRukovod": false,
+      "login": "qwe",
+      "password": "qwe",
+      "specialization": "Frontend-developer"
     }
   ]
 }
